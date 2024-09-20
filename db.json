@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": "378c",
+      "username": "Juna",
+      "email": "juna@gmail.com",
+      "status": "active"
+    },
+    {
+      "id": "b298",
+      "username": "GayathrySunil",
+      "email": "gayathrys@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "af2d",
+      "username": "Abhay",
+      "email": "abhay@gmail.com",
+      "status": "active"
+    },
+    {
+      "username": "tarun",
+      "email": "tarun@gmail.com",
+      "status": "active",
+      "id": "vHnSSee"
+    }
+  ]
+}
